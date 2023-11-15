@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="choose">CHOOSE-(X/O)</string>
+    <string name="chooseC">COMPUTER-(X/O)</string>
+    <string name="chooseF">YOUR FRIEND(X/O)</string>
+    <string name="tic">TIC TAC TOE</string>
+    <string name="res">Result</string>
+    <string name="x">X</string>
+    <string name="z">O</string>
+    <string name="playA">Play Again</string>
+    <string name="playWithFriend">Play with friend</string>
+    <string name="YouComputer">Play with Computer</string>
+    <string name="mode">Choose Mode</string>
+    android:textStyle="bold"
+    <string name="game">Game Start</string>
+    <string name="fri">Play with\nfriend</string>
+    <string name="com">Play with\ncomputer</string>
+    <string name="empty"></string>
+</resources>
