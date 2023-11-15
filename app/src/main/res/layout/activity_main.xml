@@ -111,7 +111,7 @@
 
                 <Button
                     android:id="@+id/btn1"
-                    android:textColor="#fff"
+                    android:textColor="@color/black"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:background="@drawable/set_btn_design"
@@ -124,7 +124,7 @@
                 <Button
                     android:id="@+id/btn2"
                     android:background="@drawable/set_btn_design"
-                    android:textColor="#fff"
+                    android:textColor="@color/black"
                     android:onClick="Check"
                     android:textSize="25sp"
                     android:textStyle="bold"
@@ -134,7 +134,7 @@
                 <Button
                     android:id="@+id/btn3"
                     android:background="@drawable/set_btn_design"
-                    android:textColor="#fff"
+                    android:textColor="@color/black"
                     android:onClick="Check"
                     android:textSize="25sp"
                     android:textStyle="bold"
@@ -144,7 +144,7 @@
                 <Button
                     android:id="@+id/btn4"
                     android:background="@drawable/set_btn_design"
-                    android:textColor="#fff"
+                    android:textColor="@color/black"
                     android:onClick="Check"
                     android:textSize="25sp"
                     android:textStyle="bold"
@@ -154,7 +154,7 @@
                 <Button
                     android:id="@+id/btn5"
                     android:background="@drawable/set_btn_design"
-                    android:textColor="#fff"
+                    android:textColor="@color/black"
                     android:onClick="Check"
                     android:textSize="25sp"
                     android:textStyle="bold"
@@ -166,7 +166,7 @@
                     android:id="@+id/btn6"
                     android:background="@drawable/set_btn_design"
                     android:onClick="Check"
-                    android:textColor="#fff"
+                    android:textColor="@color/black"
                     android:textSize="25sp"
                     android:textStyle="bold"
                     tools:ignore="UsingOnClickInXml"
@@ -176,7 +176,7 @@
                 <Button
                     android:id="@+id/btn7"
                     android:background="@drawable/set_btn_design"
-                    android:textColor="#fff"
+                    android:textColor="@color/black"
                     android:onClick="Check"
                     android:textSize="25sp"
                     android:textStyle="bold"
@@ -186,7 +186,7 @@
                 <Button
                     android:id="@+id/btn8"
                     android:background="@drawable/set_btn_design"
-                    android:textColor="#fff"
+                    android:textColor="@color/black"
                     android:onClick="Check"
                     android:textSize="25sp"
                     android:textStyle="bold"
@@ -197,7 +197,7 @@
                 <Button
                     android:id="@+id/btn9"
                     android:background="@drawable/set_btn_design"
-                    android:textColor="#fff"
+                    android:textColor="@color/black"
                     android:onClick="Check"
                     android:textSize="25sp"
                     android:textStyle="bold"
